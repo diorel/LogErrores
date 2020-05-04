@@ -1,0 +1,7 @@
+C:\Users\diore\source\repos\LogErrores\LogErrores\obj\Debug\LogErrores.csprojAssemblyReference.cache
+C:\Users\diore\source\repos\LogErrores\LogErrores\obj\Debug\LogErrores.csproj.CoreCompileInputs.cache
+C:\Users\diore\source\repos\LogErrores\LogErrores\bin\Debug\LogErrores.exe.config
+C:\Users\diore\source\repos\LogErrores\LogErrores\bin\Debug\LogErrores.exe
+C:\Users\diore\source\repos\LogErrores\LogErrores\bin\Debug\LogErrores.pdb
+C:\Users\diore\source\repos\LogErrores\LogErrores\obj\Debug\LogErrores.exe
+C:\Users\diore\source\repos\LogErrores\LogErrores\obj\Debug\LogErrores.pdb
